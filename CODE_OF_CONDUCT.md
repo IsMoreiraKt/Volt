@@ -31,3 +31,7 @@ Any violation of this code of conduct may result in actions such as:
 - Removal of contributions or discussions from the project.
 - Temporary or permanent blocking of access to the repository.
 - Reporting the incident to the appropriate authorities, if necessary.
+
+
+## How to Report a Problem
+If you are a witness or victim of unacceptable behavior, we encourage you to report the incident directly to the project maintainers. You can do so via a private **issue**.
