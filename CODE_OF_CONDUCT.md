@@ -23,3 +23,11 @@ We expect all participants in this project to follow this code of conduct, wheth
 2. **Abusive or Aggressive Language**: Avoid using hostile language, insults, humiliation, or any form of aggressive behavior.
 3. **Unprofessional Conduct**: We do not tolerate destructive or aggressive behavior, such as trolling, personal attacks, or disrespect towards others.
 4. **Spam or Unsolicited Promotion**: Avoid promoting products, services, or links that are irrelevant to the project.
+
+
+## Consequences of Unacceptable Behavior
+Any violation of this code of conduct may result in actions such as:
+
+- Removal of contributions or discussions from the project.
+- Temporary or permanent blocking of access to the repository.
+- Reporting the incident to the appropriate authorities, if necessary.
