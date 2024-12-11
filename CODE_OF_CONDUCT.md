@@ -16,3 +16,10 @@ We expect all participants in this project to follow this code of conduct, wheth
 3. **Inclusion**: Embrace differences and seek to promote inclusion by valuing diversity in opinions, cultures, and perspectives.
 4. **Positivity**: Encourage the exchange of ideas and the creation of creative solutions, with a positive and growth-oriented mindset.
 5. **Support and Guidance**: Support other community members, especially beginners, and provide feedback in a constructive and respectful manner.
+
+
+## Unacceptable Behavior
+1. **Discrimination and Harassment**: Any form of discrimination, harassment, or intimidation based on race, ethnicity, religion, gender identity, sexual orientation, disability, age, or any other personal characteristic is unacceptable.
+2. **Abusive or Aggressive Language**: Avoid using hostile language, insults, humiliation, or any form of aggressive behavior.
+3. **Unprofessional Conduct**: We do not tolerate destructive or aggressive behavior, such as trolling, personal attacks, or disrespect towards others.
+4. **Spam or Unsolicited Promotion**: Avoid promoting products, services, or links that are irrelevant to the project.
