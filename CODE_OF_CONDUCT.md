@@ -35,3 +35,9 @@ Any violation of this code of conduct may result in actions such as:
 
 ## How to Report a Problem
 If you are a witness or victim of unacceptable behavior, we encourage you to report the incident directly to the project maintainers. You can do so via a private **issue**.
+
+
+## Thank You
+We thank everyone who contributes to the project and works to maintain a respectful and welcoming environment for all community members.
+
+Let's work together to make this project a place where everyone feels welcome, respected, and empowered to contribute.
