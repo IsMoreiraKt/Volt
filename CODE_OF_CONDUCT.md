@@ -41,3 +41,7 @@ If you are a witness or victim of unacceptable behavior, we encourage you to rep
 We thank everyone who contributes to the project and works to maintain a respectful and welcoming environment for all community members.
 
 Let's work together to make this project a place where everyone feels welcome, respected, and empowered to contribute.
+
+---
+
+This Code of Conduct is inspired by [Contributor Covenant](https://www.contributor-covenant.org/), an initiative to promote inclusion and a respectful environment in open source projects.
